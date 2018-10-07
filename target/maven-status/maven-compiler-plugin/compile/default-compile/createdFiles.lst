@@ -1,0 +1,7 @@
+fb\restfb\api\interfaces\RestFacebookInterface.class
+fb\restfb\api\mo\PostMO.class
+fb\restfb\api\test\TestRestFacebookImpl.class
+fb\restfb\api\impl\RestFacebookCommon.class
+fb\restfb\api\impl\FetchObjectsResults.class
+fb\restfb\api\impl\RestFacebookBase.class
+fb\restfb\api\impl\RestFacebookWorker.class
